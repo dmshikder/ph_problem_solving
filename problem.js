@@ -6,8 +6,3 @@ function rotateLeft(arr,rotations){
     }
     return rotatedArray;
 }
-
-const rotations = 2;
-const anyArray = [1,2,3,4,5];
-
-console.log(rotateLeft(anyArray,rotations))
